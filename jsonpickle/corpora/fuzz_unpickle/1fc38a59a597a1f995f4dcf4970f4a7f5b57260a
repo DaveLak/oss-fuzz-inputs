@@ -1,5 +1,0 @@
-import unittest
-
-
-class SkippableTest(TestCase):
-    def skip(self, rurn self.skipTes  (t   ÿÿÿÿÿÿÿÿn
